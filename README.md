@@ -34,25 +34,29 @@ Design the database with tables for Customer, Account, and Transaction.
 
 ## Class Diagram
 
-<img width="1920" height="1080" alt="atm-usecase" src="https://github.com/user-attachments/assets/eef03b03-be44-4a57-84bf-24af6975a737" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 135253" src="https://github.com/user-attachments/assets/b611414b-3297-45ea-a0b4-6d47f290e9aa" />
 
 ## Sequence Diagram
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-28 135525" src="https://github.com/user-attachments/assets/9e7a6577-6321-47d2-999a-6c6870b4d25a" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 135525" src="https://github.com/user-attachments/assets/46266b2c-8444-431b-a945-fa93c98cdb92" />
+
 
 
 ## Activity Diagram
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-28 135152" src="https://github.com/user-attachments/assets/1078d444-94b3-4ddd-8fa3-ff9f98a70976" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 135152" src="https://github.com/user-attachments/assets/55feb6ff-1b3a-4997-8504-ab47d4226b78" />
+
 
 
 ## Communication Diagram
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-28 135152" src="https://github.com/user-attachments/assets/0906569c-8d46-42a4-a262-fa7b373b9b60" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 135403" src="https://github.com/user-attachments/assets/c0f0f77e-7773-41ac-a84b-3fa27bb37898" />
+
 
 ## Package Diagram
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-28 135152" src="https://github.com/user-attachments/assets/babcb6f6-06ee-4aab-8fa1-d81b7e66df06" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-28 135437" src="https://github.com/user-attachments/assets/831df256-c989-493c-998c-2b449c3c32b8" />
+
 
 
 
